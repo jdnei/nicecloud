@@ -3,7 +3,7 @@
 
 # NiceCloud耐思云机场官方地址(2026年8月14日更新)
 NiceCloud耐思云机场官网地址</br>
-最新地址01：[nicecloud.me](https://to.iix.im/nc02)</br>
+最新地址01：[nicecloud.me](https://to.iix.im/nc02)（关闭代理软件访问）</br>
 最新地址02：[nicecloud.cyou](https://to.iix.im/nc03)</br>
 最新地址03：[nicecloud.co](https://to.iix.im/nc04)</br>
 官方地址：[ncink.cc](https://to.iix.im/nc01)</br>
