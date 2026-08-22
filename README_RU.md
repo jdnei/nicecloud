@@ -1,6 +1,6 @@
 🇨🇳 [中文](README.md) | 🇺🇸 [English](README_EN.md) | 🇷🇺 Русский | 🇮🇷 [فارسی](README_FA.md)
 
-# Официальные адреса VPN NiceCloud(обновлено 21 августа 2026)
+# Официальные адреса VPN NiceCloud(обновлено 22 августа 2026)
 
 Официальный адрес сайта VPN NiceCloud</br>
 Последний адрес 01：[nicecloud.cyou](https://to.iix.im/nc03)</br>
