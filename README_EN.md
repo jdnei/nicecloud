@@ -1,6 +1,6 @@
 🇨🇳 [中文](README.md) | 🇺🇸 English | 🇷🇺 [Русский](README_RU.md) | 🇮🇷 [فارسی](README_FA.md)
 
-# NiceCloud Official VPN Website Addresses (Updated September 1, 2026)
+# NiceCloud Official VPN Website Addresses (Updated September 2, 2026)
 
 NiceCloud Official VPN Website Address</br>
 Latest Address 01：[nicecloud.cyou](https://to.iix.im/nc03)</br>
