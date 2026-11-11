@@ -1,6 +1,6 @@
  🇨🇳 [中文](README.md) | 🇺🇸 [English](README_EN.md) | 🇷🇺 [Русский](README_RU.md) | 🇮🇷 فارسی
 
-# آدرس رسمی VPN نایس‌کلاد NiceCloud(به‌روزرسانی 10 نوامبر 2026)
+# آدرس رسمی VPN نایس‌کلاد NiceCloud(به‌روزرسانی 11 نوامبر 2026)
 آدرس وب‌سایت رسمی VPN نایس‌کلاد NiceCloud</br>
 جدیدترین آدرس 01：[nicecloud.cyou](https://to.iix.im/nc03)</br>
 جدیدترین آدرس 02：[nicecloud.me](https://to.iix.im/nc02)</br>
